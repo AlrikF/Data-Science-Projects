@@ -16,4 +16,4 @@ Exploratory Analysis and data curation coupled with utilization of different  on
 
    ##### NOTEBOOK::
    The notebook involves **data analysis** and **data preparation**  such as exploring different methods for imputation of data, checking measures of central tendency and dispersion and checking for imbalance and outliers. 
-   Various algorithms were adopted and tried  for classification such as Random Forest and XGBoost as well as Smote to resample and tackle class imbalance.  
+   Various algorithms were adopted and tried  for classification such as **Random Forest** and **XGBoost** as well as **Smote** to resample and tackle class imbalance.  
